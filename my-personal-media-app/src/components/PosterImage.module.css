@@ -1,0 +1,37 @@
+.poster {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(150deg, rgba(255, 255, 255, 0.16), transparent 24%),
+    linear-gradient(145deg, var(--poster-color), var(--poster-accent));
+}
+
+.poster img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fallback {
+  display: grid;
+  height: 100%;
+  place-items: end start;
+  padding: 22px;
+  background:
+    linear-gradient(180deg, transparent, rgba(5, 7, 11, 0.72)),
+    linear-gradient(145deg, var(--poster-color), var(--poster-accent));
+}
+
+.fallback span {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1.05;
+}
+
+.fallback small {
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 12px;
+  font-weight: 850;
+}

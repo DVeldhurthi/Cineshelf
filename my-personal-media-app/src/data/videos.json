@@ -1,0 +1,3918 @@
+[
+  {
+    "id": "dune-part-two-2024",
+    "title": "Dune: Part Two",
+    "description": "Paul Atreides unites with the Fremen while choosing between revenge, prophecy, and the future of the known universe.",
+    "poster": "https://images.metahub.space/poster/medium/tt15239678/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt15239678/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "2h 46m",
+    "imdbId": "tt15239678",
+    "categories": [
+      "Trending",
+      "Popular Movies",
+      "Sci-Fi",
+      "Action",
+      "Drama"
+    ],
+    "featured": true,
+    "seriesKey": "dune",
+    "seriesTitle": "Dune"
+  },
+  {
+    "id": "oppenheimer-2023",
+    "title": "Oppenheimer",
+    "description": "J. Robert Oppenheimer leads the Manhattan Project and faces the moral blast radius of creating the atomic bomb.",
+    "poster": "https://images.metahub.space/poster/medium/tt15398776/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt15398776/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "runtime": "3h",
+    "imdbId": "tt15398776",
+    "categories": [
+      "Trending",
+      "Popular Movies",
+      "Drama"
+    ],
+    "featured": true
+  },
+  {
+    "id": "barbie-2023",
+    "title": "Barbie",
+    "description": "Barbie leaves her perfect plastic world for a strange and complicated human one.",
+    "poster": "https://images.metahub.space/poster/medium/tt1517268/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1517268/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": "1h 54m",
+    "imdbId": "tt1517268",
+    "categories": [
+      "Trending",
+      "Popular Movies",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "the-batman-2022",
+    "title": "The Batman",
+    "description": "Batman follows a trail of corruption and riddles through Gotham during his second year as a vigilante.",
+    "poster": "https://images.metahub.space/poster/medium/tt1877830/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1877830/img",
+    "releaseYear": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 56m",
+    "imdbId": "tt1877830",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "seriesKey": "batman-films",
+    "seriesTitle": "Batman"
+  },
+  {
+    "id": "top-gun-maverick-2022",
+    "title": "Top Gun: Maverick",
+    "description": "Maverick returns to train elite pilots for an impossible mission that forces him to face the past.",
+    "poster": "https://images.metahub.space/poster/medium/tt1745960/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1745960/img",
+    "releaseYear": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtime": "2h 10m",
+    "imdbId": "tt1745960",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "id": "spider-man-no-way-home-2021",
+    "title": "Spider-Man: No Way Home",
+    "description": "Peter Parker asks Doctor Strange for help and tears open a multiverse of old enemies.",
+    "poster": "https://images.metahub.space/poster/medium/tt10872600/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt10872600/img",
+    "releaseYear": 2021,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": "2h 28m",
+    "imdbId": "tt10872600",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Sci-Fi"
+    ],
+    "seriesKey": "mcu-spider-man",
+    "seriesTitle": "Spider-Man"
+  },
+  {
+    "id": "everything-everywhere-all-at-once-2022",
+    "title": "Everything Everywhere All at Once",
+    "description": "A laundromat owner discovers that saving existence depends on every life she might have lived.",
+    "poster": "https://images.metahub.space/poster/medium/tt6710474/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt6710474/img",
+    "releaseYear": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 19m",
+    "imdbId": "tt6710474",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Sci-Fi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "john-wick-chapter-4-2023",
+    "title": "John Wick: Chapter 4",
+    "description": "John Wick challenges the High Table with every assassin in the world closing in.",
+    "poster": "https://images.metahub.space/poster/medium/tt10366206/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt10366206/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": "2h 49m",
+    "imdbId": "tt10366206",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Crime"
+    ],
+    "seriesKey": "john-wick",
+    "seriesTitle": "John Wick"
+  },
+  {
+    "id": "furiosa-2024",
+    "title": "Furiosa: A Mad Max Saga",
+    "description": "A young Furiosa is taken from the Green Place and fights her way through the Wasteland.",
+    "poster": "https://images.metahub.space/poster/medium/tt12037194/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt12037194/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 28m",
+    "imdbId": "tt12037194",
+    "categories": [
+      "Trending",
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "mad-max-fury-road-2015",
+    "title": "Mad Max: Fury Road",
+    "description": "Max and Furiosa tear across the desert in a relentless chase for freedom.",
+    "poster": "https://images.metahub.space/poster/medium/tt1392190/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1392190/img",
+    "releaseYear": 2015,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h",
+    "imdbId": "tt1392190",
+    "categories": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "deadpool-and-wolverine-2024",
+    "title": "Deadpool & Wolverine",
+    "description": "Deadpool drags Wolverine into a universe-hopping mission with claws, jokes, and collateral damage.",
+    "poster": "https://images.metahub.space/poster/medium/tt6263850/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt6263850/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 8m",
+    "imdbId": "tt6263850",
+    "categories": [
+      "Trending",
+      "Popular Movies",
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "inside-out-2-2024",
+    "title": "Inside Out 2",
+    "description": "Riley enters adolescence and a new crew of emotions takes over headquarters.",
+    "poster": "https://images.metahub.space/poster/medium/tt22022452/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt22022452/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": "1h 36m",
+    "imdbId": "tt22022452",
+    "categories": [
+      "Trending",
+      "Popular Movies",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "godzilla-minus-one-2023",
+    "title": "Godzilla Minus One",
+    "description": "Postwar Japan faces a monstrous new catastrophe rising from the sea.",
+    "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt23289160/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "runtime": "2h 4m",
+    "imdbId": "tt23289160",
+    "categories": [
+      "Trending",
+      "Action",
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "id": "civil-war-2024",
+    "title": "Civil War",
+    "description": "Journalists race across a fractured America toward Washington before the final assault.",
+    "poster": "https://images.metahub.space/poster/medium/tt17279496/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt17279496/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "1h 49m",
+    "imdbId": "tt17279496",
+    "categories": [
+      "Trending",
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "id": "challengers-2024",
+    "title": "Challengers",
+    "description": "A tennis champion, her husband, and his former best friend collide on and off the court.",
+    "poster": "https://images.metahub.space/poster/medium/tt16426418/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt16426418/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "runtime": "2h 11m",
+    "imdbId": "tt16426418",
+    "categories": [
+      "Trending",
+      "Drama"
+    ]
+  },
+  {
+    "id": "poor-things-2023",
+    "title": "Poor Things",
+    "description": "Bella Baxter journeys through desire, philosophy, and self-invention after an unusual resurrection.",
+    "poster": "https://images.metahub.space/poster/medium/tt14230458/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt14230458/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": "2h 21m",
+    "imdbId": "tt14230458",
+    "categories": [
+      "Popular Movies",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "anatomy-of-a-fall-2023",
+    "title": "Anatomy of a Fall",
+    "description": "A novelist stands trial after her husband dies, and a marriage is dissected in court.",
+    "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt17009710/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "2h 31m",
+    "imdbId": "tt17009710",
+    "categories": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": "past-lives-2023",
+    "title": "Past Lives",
+    "description": "Two childhood friends reconnect across decades and wonder what might have been.",
+    "poster": "https://images.metahub.space/poster/medium/tt13238346/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt13238346/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": "1h 45m",
+    "imdbId": "tt13238346",
+    "categories": [
+      "Drama"
+    ]
+  },
+  {
+    "id": "the-holdovers-2023",
+    "title": "The Holdovers",
+    "description": "A cranky teacher, a grieving cook, and a stranded student form a temporary holiday family.",
+    "poster": "https://images.metahub.space/poster/medium/tt14849194/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt14849194/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": "2h 13m",
+    "imdbId": "tt14849194",
+    "categories": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "killers-of-the-flower-moon-2023",
+    "title": "Killers of the Flower Moon",
+    "description": "A series of Osage murders exposes greed, power, and betrayal in 1920s Oklahoma.",
+    "poster": "https://images.metahub.space/poster/medium/tt5537002/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt5537002/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "runtime": "3h 26m",
+    "imdbId": "tt5537002",
+    "categories": [
+      "Popular Movies",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": "the-brutalist-2024",
+    "title": "The Brutalist",
+    "description": "A visionary architect rebuilds his life in America while chasing a monumental commission.",
+    "poster": "https://images.metahub.space/poster/medium/tt8999762/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt8999762/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "3h 35m",
+    "imdbId": "tt8999762",
+    "categories": [
+      "Trending",
+      "Drama"
+    ]
+  },
+  {
+    "id": "conclave-2024",
+    "title": "Conclave",
+    "description": "Cardinals gather to choose a new pope while secrets threaten the future of the Church.",
+    "poster": "https://images.metahub.space/poster/medium/tt20215234/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt20215234/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "2h",
+    "imdbId": "tt20215234",
+    "categories": [
+      "Trending",
+      "Drama"
+    ]
+  },
+  {
+    "id": "anora-2024",
+    "title": "Anora",
+    "description": "A Brooklyn dancer marries into sudden wealth and chaos when power comes calling.",
+    "poster": "https://images.metahub.space/poster/medium/tt28607951/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt28607951/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": "2h 19m",
+    "imdbId": "tt28607951",
+    "categories": [
+      "Trending",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "wicked-2024",
+    "title": "Wicked",
+    "description": "The untold story of Oz begins with two witches, one friendship, and a future rewritten.",
+    "poster": "https://images.metahub.space/poster/medium/tt1262426/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1262426/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
+    "runtime": "2h 40m",
+    "imdbId": "tt1262426",
+    "categories": [
+      "Trending",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "gladiator-ii-2024",
+    "title": "Gladiator II",
+    "description": "A new warrior enters the Roman arena under the shadow of Maximus and a corrupt empire.",
+    "poster": "https://images.metahub.space/poster/medium/tt9218128/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt9218128/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "2h 28m",
+    "imdbId": "tt9218128",
+    "categories": [
+      "Trending",
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "id": "alien-romulus-2024",
+    "title": "Alien: Romulus",
+    "description": "Young scavengers board a derelict station and awaken the perfect organism.",
+    "poster": "https://images.metahub.space/poster/medium/tt18412256/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt18412256/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtime": "1h 59m",
+    "imdbId": "tt18412256",
+    "categories": [
+      "Trending",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "seriesKey": "alien",
+    "seriesTitle": "Alien"
+  },
+  {
+    "id": "longlegs-2024",
+    "title": "Longlegs",
+    "description": "An FBI agent follows occult clues in a serial killer case that feels disturbingly personal.",
+    "poster": "https://images.metahub.space/poster/medium/tt23468450/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt23468450/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": "1h 41m",
+    "imdbId": "tt23468450",
+    "categories": [
+      "Trending",
+      "Horror",
+      "Crime"
+    ]
+  },
+  {
+    "id": "a-quiet-place-day-one-2024",
+    "title": "A Quiet Place: Day One",
+    "description": "The invasion begins in New York as survivors learn that silence is survival.",
+    "poster": "https://images.metahub.space/poster/medium/tt13433802/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt13433802/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "runtime": "1h 39m",
+    "imdbId": "tt13433802",
+    "categories": [
+      "Trending",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "the-substance-2024",
+    "title": "The Substance",
+    "description": "A fading celebrity uses a black-market treatment and unleashes a nightmare of identity and flesh.",
+    "poster": "https://images.metahub.space/poster/medium/tt17526714/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt17526714/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "runtime": "2h 21m",
+    "imdbId": "tt17526714",
+    "categories": [
+      "Trending",
+      "Horror",
+      "Drama"
+    ]
+  },
+  {
+    "id": "nosferatu-2024",
+    "title": "Nosferatu",
+    "description": "A gothic obsession draws a young woman into the orbit of an ancient vampire.",
+    "poster": "https://images.metahub.space/poster/medium/tt5040012/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt5040012/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "2h 12m",
+    "imdbId": "tt5040012",
+    "categories": [
+      "Trending",
+      "Horror"
+    ]
+  },
+  {
+    "id": "mickey-17-2025",
+    "title": "Mickey 17",
+    "description": "An expendable worker on an ice world keeps returning from death with complications.",
+    "poster": "https://images.metahub.space/poster/medium/tt12299608/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt12299608/img",
+    "releaseYear": 2025,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 17m",
+    "imdbId": "tt12299608",
+    "categories": [
+      "Trending",
+      "Sci-Fi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "mission-impossible-dead-reckoning-2023",
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "description": "Ethan Hunt races a sentient threat that can bend truth, trust, and every system on Earth.",
+    "poster": "https://images.metahub.space/poster/medium/tt9603212/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt9603212/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "runtime": "2h 43m",
+    "imdbId": "tt9603212",
+    "categories": [
+      "Action",
+      "Popular Movies"
+    ],
+    "seriesKey": "mission-impossible",
+    "seriesTitle": "Mission: Impossible"
+  },
+  {
+    "id": "bullet-train-2022",
+    "title": "Bullet Train",
+    "description": "Assassins with connected missions collide aboard a high-speed train through Japan.",
+    "poster": "https://images.metahub.space/poster/medium/tt12593682/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt12593682/img",
+    "releaseYear": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "runtime": "2h 7m",
+    "imdbId": "tt12593682",
+    "categories": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "the-fall-guy-2024",
+    "title": "The Fall Guy",
+    "description": "A battered stuntman searches for a missing star while trying to win back the director he loves.",
+    "poster": "https://images.metahub.space/poster/medium/tt1684562/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1684562/img",
+    "releaseYear": 2024,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": "2h 6m",
+    "imdbId": "tt1684562",
+    "categories": [
+      "Trending",
+      "Action",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "the-matrix-1999",
+    "title": "The Matrix",
+    "description": "A hacker discovers reality is a simulation and joins a rebellion against machine control.",
+    "poster": "https://images.metahub.space/poster/medium/tt0133093/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0133093/img",
+    "releaseYear": 1999,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 16m",
+    "imdbId": "tt0133093",
+    "categories": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "seriesKey": "matrix",
+    "seriesTitle": "The Matrix"
+  },
+  {
+    "id": "inception-2010",
+    "title": "Inception",
+    "description": "A thief enters dreams to plant an idea in a target mind while chasing a way home.",
+    "poster": "https://images.metahub.space/poster/medium/tt1375666/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1375666/img",
+    "releaseYear": 2010,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 28m",
+    "imdbId": "tt1375666",
+    "categories": [
+      "Sci-Fi",
+      "Action",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "interstellar-2014",
+    "title": "Interstellar",
+    "description": "Explorers cross a wormhole to find humanity a future beyond a dying Earth.",
+    "poster": "https://images.metahub.space/poster/medium/tt0816692/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0816692/img",
+    "releaseYear": 2014,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 49m",
+    "imdbId": "tt0816692",
+    "categories": [
+      "Sci-Fi",
+      "Drama",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "blade-runner-2049-2017",
+    "title": "Blade Runner 2049",
+    "description": "A replicant blade runner uncovers a secret that could collapse society.",
+    "poster": "https://images.metahub.space/poster/medium/tt1856101/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1856101/img",
+    "releaseYear": 2017,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 44m",
+    "imdbId": "tt1856101",
+    "categories": [
+      "Sci-Fi",
+      "Drama"
+    ]
+  },
+  {
+    "id": "arrival-2016",
+    "title": "Arrival",
+    "description": "A linguist races to understand alien visitors before fear turns contact into war.",
+    "poster": "https://images.metahub.space/poster/medium/tt2543164/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2543164/img",
+    "releaseYear": 2016,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "1h 56m",
+    "imdbId": "tt2543164",
+    "categories": [
+      "Sci-Fi",
+      "Drama"
+    ]
+  },
+  {
+    "id": "the-martian-2015",
+    "title": "The Martian",
+    "description": "An astronaut stranded on Mars uses science, stubbornness, and potatoes to survive.",
+    "poster": "https://images.metahub.space/poster/medium/tt3659388/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt3659388/img",
+    "releaseYear": 2015,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 24m",
+    "imdbId": "tt3659388",
+    "categories": [
+      "Sci-Fi",
+      "Drama"
+    ]
+  },
+  {
+    "id": "avatar-2009",
+    "title": "Avatar",
+    "description": "A former marine enters Pandora through an avatar body and joins a world under threat.",
+    "poster": "https://images.metahub.space/poster/medium/tt0499549/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0499549/img",
+    "releaseYear": 2009,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 42m",
+    "imdbId": "tt0499549",
+    "categories": [
+      "Sci-Fi",
+      "Action"
+    ]
+  },
+  {
+    "id": "avatar-the-way-of-water-2022",
+    "title": "Avatar: The Way of Water",
+    "description": "Jake Sully and his family seek refuge among ocean clans as war follows them to the reef.",
+    "poster": "https://images.metahub.space/poster/medium/tt1630029/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1630029/img",
+    "releaseYear": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "3h 12m",
+    "imdbId": "tt1630029",
+    "categories": [
+      "Sci-Fi",
+      "Action",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "the-creator-2023",
+    "title": "The Creator",
+    "description": "A soldier hunts an AI weapon and discovers a child at the center of a future war.",
+    "poster": "https://images.metahub.space/poster/medium/tt11858890/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt11858890/img",
+    "releaseYear": 2023,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 13m",
+    "imdbId": "tt11858890",
+    "categories": [
+      "Sci-Fi",
+      "Action"
+    ]
+  },
+  {
+    "id": "guardians-of-the-galaxy-2014",
+    "title": "Guardians of the Galaxy",
+    "description": "A group of cosmic misfits becomes a family while saving the galaxy from a fanatic.",
+    "poster": "https://images.metahub.space/poster/medium/tt2015381/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2015381/img",
+    "releaseYear": 2014,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": "2h 1m",
+    "imdbId": "tt2015381",
+    "categories": [
+      "Action",
+      "Comedy",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "avengers-endgame-2019",
+    "title": "Avengers: Endgame",
+    "description": "The Avengers attempt one last mission to undo Thanos and restore the universe.",
+    "poster": "https://images.metahub.space/poster/medium/tt4154796/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt4154796/img",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "3h 1m",
+    "imdbId": "tt4154796",
+    "categories": [
+      "Action",
+      "Popular Movies",
+      "Sci-Fi"
+    ],
+    "seriesKey": "avengers",
+    "seriesTitle": "Avengers"
+  },
+  {
+    "id": "black-panther-2018",
+    "title": "Black Panther",
+    "description": "T’Challa returns to Wakanda and faces a challenger with a revolutionary vision.",
+    "poster": "https://images.metahub.space/poster/medium/tt1825683/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1825683/img",
+    "releaseYear": 2018,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 14m",
+    "imdbId": "tt1825683",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "the-dark-knight-2008",
+    "title": "The Dark Knight",
+    "description": "Batman, Gordon, and Dent confront the Joker as Gotham is pushed into chaos.",
+    "poster": "https://images.metahub.space/poster/medium/tt0468569/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0468569/img",
+    "releaseYear": 2008,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 32m",
+    "imdbId": "tt0468569",
+    "categories": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Popular Movies"
+    ],
+    "seriesKey": "batman-films",
+    "seriesTitle": "Batman"
+  },
+  {
+    "id": "joker-2019",
+    "title": "Joker",
+    "description": "A lonely performer spirals into violence in a city that has abandoned him.",
+    "poster": "https://images.metahub.space/poster/medium/tt7286456/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt7286456/img",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "2h 2m",
+    "imdbId": "tt7286456",
+    "categories": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": "parasite-2019",
+    "title": "Parasite",
+    "description": "A poor family infiltrates a wealthy household, exposing class tensions with razor precision.",
+    "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt6751668/img",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "2h 12m",
+    "imdbId": "tt6751668",
+    "categories": [
+      "Drama",
+      "Popular Movies"
+    ]
+  },
+  {
+    "id": "knives-out-2019",
+    "title": "Knives Out",
+    "description": "Detective Benoit Blanc investigates a family gathering, a dead patriarch, and many motives.",
+    "poster": "https://images.metahub.space/poster/medium/tt8946378/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt8946378/img",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "runtime": "2h 10m",
+    "imdbId": "tt8946378",
+    "categories": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "glass-onion-2022",
+    "title": "Glass Onion",
+    "description": "Benoit Blanc joins a billionaire’s island party where puzzles turn lethal.",
+    "poster": "https://images.metahub.space/poster/medium/tt11564570/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt11564570/img",
+    "releaseYear": 2022,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "runtime": "2h 19m",
+    "imdbId": "tt11564570",
+    "categories": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "drive-2011",
+    "title": "Drive",
+    "description": "A Hollywood stunt driver moonlights as a getaway driver and gets pulled into a dangerous job.",
+    "poster": "https://images.metahub.space/poster/medium/tt0780504/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0780504/img",
+    "releaseYear": 2011,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtime": "1h 40m",
+    "imdbId": "tt0780504",
+    "categories": [
+      "Action",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": "heat-1995",
+    "title": "Heat",
+    "description": "A master thief and a relentless detective circle each other in Los Angeles.",
+    "poster": "https://images.metahub.space/poster/medium/tt0113277/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0113277/img",
+    "releaseYear": 1995,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 50m",
+    "imdbId": "tt0113277",
+    "categories": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": "pulp-fiction-1994",
+    "title": "Pulp Fiction",
+    "description": "Intersecting Los Angeles crime stories unfold with wit, violence, and strange grace.",
+    "poster": "https://images.metahub.space/poster/medium/tt0110912/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0110912/img",
+    "releaseYear": 1994,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 34m",
+    "imdbId": "tt0110912",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Classics"
+    ]
+  },
+  {
+    "id": "goodfellas-1990",
+    "title": "Goodfellas",
+    "description": "Henry Hill rises and falls through decades of mob life.",
+    "poster": "https://images.metahub.space/poster/medium/tt0099685/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0099685/img",
+    "releaseYear": 1990,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 25m",
+    "imdbId": "tt0099685",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Classics"
+    ]
+  },
+  {
+    "id": "the-godfather-1972",
+    "title": "The Godfather",
+    "description": "The Corleone family transfers power as loyalty and violence reshape an empire.",
+    "poster": "https://images.metahub.space/poster/medium/tt0068646/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0068646/img",
+    "releaseYear": 1972,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 55m",
+    "imdbId": "tt0068646",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Classics"
+    ],
+    "seriesKey": "godfather",
+    "seriesTitle": "The Godfather"
+  },
+  {
+    "id": "the-shawshank-redemption-1994",
+    "title": "The Shawshank Redemption",
+    "description": "An innocent banker endures prison by holding onto patience, friendship, and hope.",
+    "poster": "https://images.metahub.space/poster/medium/tt0111161/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0111161/img",
+    "releaseYear": 1994,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 22m",
+    "imdbId": "tt0111161",
+    "categories": [
+      "Drama",
+      "Classics"
+    ]
+  },
+  {
+    "id": "forrest-gump-1994",
+    "title": "Forrest Gump",
+    "description": "A gentle man passes through American history while never forgetting his first love.",
+    "poster": "https://images.metahub.space/poster/medium/tt0109830/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0109830/img",
+    "releaseYear": 1994,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": "2h 22m",
+    "imdbId": "tt0109830",
+    "categories": [
+      "Drama",
+      "Classics"
+    ]
+  },
+  {
+    "id": "fight-club-1999",
+    "title": "Fight Club",
+    "description": "An office worker and a soap maker create an underground movement that mutates out of control.",
+    "poster": "https://images.metahub.space/poster/medium/tt0137523/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0137523/img",
+    "releaseYear": 1999,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 19m",
+    "imdbId": "tt0137523",
+    "categories": [
+      "Drama",
+      "Classics"
+    ]
+  },
+  {
+    "id": "se7en-1995",
+    "title": "Se7en",
+    "description": "Two detectives hunt a killer staging murders around the seven deadly sins.",
+    "poster": "https://images.metahub.space/poster/medium/tt0114369/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0114369/img",
+    "releaseYear": 1995,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "2h 7m",
+    "imdbId": "tt0114369",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "id": "the-silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "description": "An FBI trainee seeks help from Hannibal Lecter to catch a serial killer.",
+    "poster": "https://images.metahub.space/poster/medium/tt0102926/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0102926/img",
+    "releaseYear": 1991,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "1h 58m",
+    "imdbId": "tt0102926",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "id": "get-out-2017",
+    "title": "Get Out",
+    "description": "A weekend visit to meet the parents reveals a nightmare hidden behind liberal politeness.",
+    "poster": "https://images.metahub.space/poster/medium/tt5052448/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt5052448/img",
+    "releaseYear": 2017,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": "1h 44m",
+    "imdbId": "tt5052448",
+    "categories": [
+      "Horror",
+      "Drama"
+    ]
+  },
+  {
+    "id": "hereditary-2018",
+    "title": "Hereditary",
+    "description": "A grieving family uncovers a terrifying inheritance after a grandmother dies.",
+    "poster": "https://images.metahub.space/poster/medium/tt7784604/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt7784604/img",
+    "releaseYear": 2018,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "2h 7m",
+    "imdbId": "tt7784604",
+    "categories": [
+      "Horror",
+      "Drama"
+    ]
+  },
+  {
+    "id": "midsommar-2019",
+    "title": "Midsommar",
+    "description": "A couple joins a remote Swedish festival where daylight cannot soften the horror.",
+    "poster": "https://images.metahub.space/poster/medium/tt8772262/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt8772262/img",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "2h 28m",
+    "imdbId": "tt8772262",
+    "categories": [
+      "Horror",
+      "Drama"
+    ]
+  },
+  {
+    "id": "the-shining-1980",
+    "title": "The Shining",
+    "description": "A winter caretaker and his family descend into terror inside the Overlook Hotel.",
+    "poster": "https://images.metahub.space/poster/medium/tt0081505/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0081505/img",
+    "releaseYear": 1980,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "runtime": "2h 26m",
+    "imdbId": "tt0081505",
+    "categories": [
+      "Horror",
+      "Classics"
+    ]
+  },
+  {
+    "id": "halloween-1978",
+    "title": "Halloween",
+    "description": "Michael Myers returns home on Halloween night and stalks a babysitter.",
+    "poster": "https://images.metahub.space/poster/medium/tt0077651/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0077651/img",
+    "releaseYear": 1978,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": "1h 31m",
+    "imdbId": "tt0077651",
+    "categories": [
+      "Horror",
+      "Classics"
+    ]
+  },
+  {
+    "id": "scream-1996",
+    "title": "Scream",
+    "description": "A masked killer turns horror movie rules into a deadly game.",
+    "poster": "https://images.metahub.space/poster/medium/tt0117571/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0117571/img",
+    "releaseYear": 1996,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "1h 51m",
+    "imdbId": "tt0117571",
+    "categories": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "the-exorcist-1973",
+    "title": "The Exorcist",
+    "description": "A mother seeks help when her daughter appears possessed by something ancient and evil.",
+    "poster": "https://images.metahub.space/poster/medium/tt0070047/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0070047/img",
+    "releaseYear": 1973,
+    "type": "movie",
+    "genres": [
+      "Horror"
+    ],
+    "runtime": "2h 2m",
+    "imdbId": "tt0070047",
+    "categories": [
+      "Horror",
+      "Classics"
+    ]
+  },
+  {
+    "id": "the-thing-1982",
+    "title": "The Thing",
+    "description": "Antarctic researchers face a shape-shifting organism that could be anyone.",
+    "poster": "https://images.metahub.space/poster/medium/tt0084787/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0084787/img",
+    "releaseYear": 1982,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "1h 49m",
+    "imdbId": "tt0084787",
+    "categories": [
+      "Horror",
+      "Sci-Fi",
+      "Classics"
+    ]
+  },
+  {
+    "id": "alien-1979",
+    "title": "Alien",
+    "description": "The crew of the Nostromo answers a signal and brings terror aboard.",
+    "poster": "https://images.metahub.space/poster/medium/tt0078748/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0078748/img",
+    "releaseYear": 1979,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "runtime": "1h 57m",
+    "imdbId": "tt0078748",
+    "categories": [
+      "Horror",
+      "Sci-Fi",
+      "Classics"
+    ],
+    "seriesKey": "alien",
+    "seriesTitle": "Alien"
+  },
+  {
+    "id": "aliens-1986",
+    "title": "Aliens",
+    "description": "Ripley returns with colonial marines to face the xenomorph hive.",
+    "poster": "https://images.metahub.space/poster/medium/tt0090605/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0090605/img",
+    "releaseYear": 1986,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 17m",
+    "imdbId": "tt0090605",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "seriesKey": "alien",
+    "seriesTitle": "Alien"
+  },
+  {
+    "id": "terminator-2-judgment-day-1991",
+    "title": "Terminator 2: Judgment Day",
+    "description": "A reprogrammed Terminator protects the future leader of humanity from a liquid-metal assassin.",
+    "poster": "https://images.metahub.space/poster/medium/tt0103064/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0103064/img",
+    "releaseYear": 1991,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 17m",
+    "imdbId": "tt0103064",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Classics"
+    ]
+  },
+  {
+    "id": "jurassic-park-1993",
+    "title": "Jurassic Park",
+    "description": "A dinosaur theme park becomes a survival test when nature escapes containment.",
+    "poster": "https://images.metahub.space/poster/medium/tt0107290/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0107290/img",
+    "releaseYear": 1993,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 7m",
+    "imdbId": "tt0107290",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Classics"
+    ]
+  },
+  {
+    "id": "back-to-the-future-1985",
+    "title": "Back to the Future",
+    "description": "Marty McFly accidentally travels to 1955 and has to fix his parents’ future.",
+    "poster": "https://images.metahub.space/poster/medium/tt0088763/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0088763/img",
+    "releaseYear": 1985,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "runtime": "1h 56m",
+    "imdbId": "tt0088763",
+    "categories": [
+      "Sci-Fi",
+      "Comedy",
+      "Classics"
+    ]
+  },
+  {
+    "id": "raiders-of-the-lost-ark-1981",
+    "title": "Raiders of the Lost Ark",
+    "description": "Indiana Jones races Nazis to find the Ark of the Covenant.",
+    "poster": "https://images.metahub.space/poster/medium/tt0082971/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0082971/img",
+    "releaseYear": 1981,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "1h 55m",
+    "imdbId": "tt0082971",
+    "categories": [
+      "Action",
+      "Classics"
+    ]
+  },
+  {
+    "id": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A hobbit carries a dangerous ring out of the Shire and into legend.",
+    "poster": "https://images.metahub.space/poster/medium/tt0120737/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0120737/img",
+    "releaseYear": 2001,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "2h 58m",
+    "imdbId": "tt0120737",
+    "categories": [
+      "Action",
+      "Drama",
+      "Classics"
+    ],
+    "seriesKey": "lord-of-the-rings",
+    "seriesTitle": "The Lord of the Rings"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-two-towers-2002",
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "The fellowship breaks apart while Middle-earth moves toward open war.",
+    "poster": "https://images.metahub.space/poster/medium/tt0167261/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0167261/img",
+    "releaseYear": 2002,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "2h 59m",
+    "imdbId": "tt0167261",
+    "categories": [
+      "Action",
+      "Drama",
+      "Classics"
+    ],
+    "seriesKey": "lord-of-the-rings",
+    "seriesTitle": "The Lord of the Rings"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "The final battle for Middle-earth begins as Frodo nears Mount Doom.",
+    "poster": "https://images.metahub.space/poster/medium/tt0167260/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0167260/img",
+    "releaseYear": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "3h 21m",
+    "imdbId": "tt0167260",
+    "categories": [
+      "Action",
+      "Drama",
+      "Classics"
+    ],
+    "seriesKey": "lord-of-the-rings",
+    "seriesTitle": "The Lord of the Rings"
+  },
+  {
+    "id": "harry-potter-and-the-sorcerers-stone-2001",
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "description": "A young wizard discovers Hogwarts, friendship, and a hidden dark legacy.",
+    "poster": "https://images.metahub.space/poster/medium/tt0241527/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0241527/img",
+    "releaseYear": 2001,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": "2h 32m",
+    "imdbId": "tt0241527",
+    "categories": [
+      "Classics"
+    ],
+    "seriesKey": "harry-potter",
+    "seriesTitle": "Harry Potter"
+  },
+  {
+    "id": "spirited-away-2001",
+    "title": "Spirited Away",
+    "description": "A girl trapped in a spirit bathhouse must save her parents and herself.",
+    "poster": "https://images.metahub.space/poster/medium/tt0245429/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0245429/img",
+    "releaseYear": 2001,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime": "2h 5m",
+    "imdbId": "tt0245429",
+    "categories": [
+      "Anime",
+      "Classics"
+    ]
+  },
+  {
+    "id": "princess-mononoke-1997",
+    "title": "Princess Mononoke",
+    "description": "A cursed prince is caught between forest gods and an industrial settlement.",
+    "poster": "https://images.metahub.space/poster/medium/tt0119698/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0119698/img",
+    "releaseYear": 1997,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "2h 14m",
+    "imdbId": "tt0119698",
+    "categories": [
+      "Anime",
+      "Action",
+      "Classics"
+    ]
+  },
+  {
+    "id": "your-name-2016",
+    "title": "Your Name.",
+    "description": "Two teenagers mysteriously swap bodies and search for each other across time.",
+    "poster": "https://images.metahub.space/poster/medium/tt5311514/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt5311514/img",
+    "releaseYear": 2016,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "runtime": "1h 46m",
+    "imdbId": "tt5311514",
+    "categories": [
+      "Anime",
+      "Drama"
+    ]
+  },
+  {
+    "id": "akira-1988",
+    "title": "Akira",
+    "description": "Neo-Tokyo erupts when a biker gains psychic powers tied to a government secret.",
+    "poster": "https://images.metahub.space/poster/medium/tt0094625/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0094625/img",
+    "releaseYear": 1988,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 4m",
+    "imdbId": "tt0094625",
+    "categories": [
+      "Anime",
+      "Action",
+      "Sci-Fi",
+      "Classics"
+    ]
+  },
+  {
+    "id": "demon-slayer-mugen-train-2020",
+    "title": "Demon Slayer: Mugen Train",
+    "description": "Tanjiro and the Flame Hashira board a train where dreams become traps.",
+    "poster": "https://images.metahub.space/poster/medium/tt11032374/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt11032374/img",
+    "releaseYear": 2020,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "1h 57m",
+    "imdbId": "tt11032374",
+    "categories": [
+      "Anime",
+      "Action"
+    ],
+    "seriesKey": "demon-slayer",
+    "seriesTitle": "Demon Slayer"
+  },
+  {
+    "id": "jujutsu-kaisen-0-2021",
+    "title": "Jujutsu Kaisen 0",
+    "description": "A haunted student enters Jujutsu High and learns to wield a devastating curse.",
+    "poster": "https://images.metahub.space/poster/medium/tt14331144/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt14331144/img",
+    "releaseYear": 2021,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "runtime": "1h 45m",
+    "imdbId": "tt14331144",
+    "categories": [
+      "Anime",
+      "Action"
+    ],
+    "seriesKey": "jujutsu-kaisen",
+    "seriesTitle": "Jujutsu Kaisen"
+  },
+  {
+    "id": "paprika-2006",
+    "title": "Paprika",
+    "description": "A dream device is stolen, blending subconscious fantasy with waking reality.",
+    "poster": "https://images.metahub.space/poster/medium/tt0851578/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0851578/img",
+    "releaseYear": 2006,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "1h 30m",
+    "imdbId": "tt0851578",
+    "categories": [
+      "Anime",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "night-of-the-living-dead-1968",
+    "title": "Night of the Living Dead",
+    "description": "Strangers barricade themselves inside a rural Pennsylvania home as the dead gather outside.",
+    "poster": "https://images.metahub.space/poster/medium/tt0063350/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0063350/img",
+    "releaseYear": 1968,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Independent"
+    ],
+    "runtime": "1h 36m",
+    "imdbId": "tt0063350",
+    "categories": [
+      "Classics",
+      "Horror"
+    ],
+    "featured": true,
+    "isPublicDomain": true,
+    "tmdbId": "10331",
+    "tmdbUrl": "https://www.themoviedb.org/movie/10331-night-of-the-living-dead",
+    "imdbUrl": "https://www.imdb.com/title/tt0063350/"
+  },
+  {
+    "id": "metropolis-1927",
+    "title": "Metropolis",
+    "description": "In a divided future city, a privileged son discovers the machinery beneath paradise.",
+    "poster": "https://images.metahub.space/poster/medium/tt0017136/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0017136/img",
+    "releaseYear": 1927,
+    "type": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Silent"
+    ],
+    "runtime": "2h 33m",
+    "imdbId": "tt0017136",
+    "categories": [
+      "Classics",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "nosferatu-1922",
+    "title": "Nosferatu",
+    "description": "A real estate agent travels to a remote castle and meets a count with an appetite for the living.",
+    "poster": "https://images.metahub.space/poster/medium/tt0013442/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0013442/img",
+    "releaseYear": 1922,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Silent"
+    ],
+    "runtime": "1h 34m",
+    "imdbId": "tt0013442",
+    "categories": [
+      "Classics",
+      "Horror"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "the-cabinet-of-dr-caligari-1920",
+    "title": "The Cabinet of Dr. Caligari",
+    "description": "A hypnotist exhibits a sleepwalker whose prophecies trail murder.",
+    "poster": "https://images.metahub.space/poster/medium/tt0010323/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0010323/img",
+    "releaseYear": 1920,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Silent"
+    ],
+    "runtime": "1h 7m",
+    "imdbId": "tt0010323",
+    "categories": [
+      "Classics",
+      "Horror"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "the-general-1926",
+    "title": "The General",
+    "description": "Buster Keaton turns a locomotive chase into clockwork action comedy.",
+    "poster": "https://images.metahub.space/poster/medium/tt0017925/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0017925/img",
+    "releaseYear": 1926,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Silent"
+    ],
+    "runtime": "1h 18m",
+    "imdbId": "tt0017925",
+    "categories": [
+      "Classics",
+      "Action",
+      "Comedy"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "sherlock-jr-1924",
+    "title": "Sherlock Jr.",
+    "description": "A projectionist steps through the screen and into a detective fantasy.",
+    "poster": "https://images.metahub.space/poster/medium/tt0015324/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0015324/img",
+    "releaseYear": 1924,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Silent"
+    ],
+    "runtime": "45m",
+    "imdbId": "tt0015324",
+    "categories": [
+      "Classics",
+      "Comedy",
+      "Crime"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "the-kid-1921",
+    "title": "The Kid",
+    "description": "The Tramp raises an abandoned boy and fights to keep their fragile family together.",
+    "poster": "https://images.metahub.space/poster/medium/tt0012349/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0012349/img",
+    "releaseYear": 1921,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Silent"
+    ],
+    "runtime": "1h 8m",
+    "imdbId": "tt0012349",
+    "categories": [
+      "Classics",
+      "Comedy",
+      "Drama"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "a-trip-to-the-moon-1902",
+    "title": "A Trip to the Moon",
+    "description": "Astronomers launch themselves to the moon and discover a strange lunar kingdom.",
+    "poster": "https://images.metahub.space/poster/medium/tt0000417/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0000417/img",
+    "releaseYear": 1902,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Silent"
+    ],
+    "runtime": "13m",
+    "imdbId": "tt0000417",
+    "categories": [
+      "Classics",
+      "Sci-Fi"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "house-on-haunted-hill-1959",
+    "title": "House on Haunted Hill",
+    "description": "An eccentric millionaire offers guests cash to survive a night in a sinister house.",
+    "poster": "https://images.metahub.space/poster/medium/tt0051744/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0051744/img",
+    "releaseYear": 1959,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "1h 15m",
+    "imdbId": "tt0051744",
+    "categories": [
+      "Classics",
+      "Horror"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "carnival-of-souls-1962",
+    "title": "Carnival of Souls",
+    "description": "After a car accident, a church organist is haunted by pale strangers and a deserted pavilion.",
+    "poster": "https://images.metahub.space/poster/medium/tt0055830/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0055830/img",
+    "releaseYear": 1962,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "1h 18m",
+    "imdbId": "tt0055830",
+    "categories": [
+      "Classics",
+      "Horror"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "his-girl-friday-1940",
+    "title": "His Girl Friday",
+    "description": "A newspaper editor schemes to keep his star reporter and former wife from leaving the business.",
+    "poster": "https://images.metahub.space/poster/medium/tt0032599/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0032599/img",
+    "releaseYear": 1940,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "runtime": "1h 32m",
+    "imdbId": "tt0032599",
+    "categories": [
+      "Classics",
+      "Comedy"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "the-little-shop-of-horrors-1960",
+    "title": "The Little Shop of Horrors",
+    "description": "A timid florist nurtures a strange plant that demands increasingly alarming meals.",
+    "poster": "https://images.metahub.space/poster/medium/tt0054033/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0054033/img",
+    "releaseYear": 1960,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "runtime": "1h 12m",
+    "imdbId": "tt0054033",
+    "categories": [
+      "Classics",
+      "Comedy",
+      "Horror"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "plan-9-from-outer-space-1957",
+    "title": "Plan 9 from Outer Space",
+    "description": "Aliens resurrect the dead as part of a bizarre plan to stop humanity.",
+    "poster": "https://images.metahub.space/poster/medium/tt0052077/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0052077/img",
+    "releaseYear": 1957,
+    "type": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Horror"
+    ],
+    "runtime": "1h 19m",
+    "imdbId": "tt0052077",
+    "categories": [
+      "Classics",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "the-stranger-1946",
+    "title": "The Stranger",
+    "description": "An investigator tracks a fugitive war criminal hiding inside a small town identity.",
+    "poster": "https://images.metahub.space/poster/medium/tt0038991/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0038991/img",
+    "releaseYear": 1946,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Noir"
+    ],
+    "runtime": "1h 35m",
+    "imdbId": "tt0038991",
+    "categories": [
+      "Classics",
+      "Crime",
+      "Drama"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "battleship-potemkin-1925",
+    "title": "Battleship Potemkin",
+    "description": "Sailors revolt against brutal officers, igniting an uprising on land and sea.",
+    "poster": "https://images.metahub.space/poster/medium/tt0015648/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0015648/img",
+    "releaseYear": 1925,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "History",
+      "Silent"
+    ],
+    "runtime": "1h 15m",
+    "imdbId": "tt0015648",
+    "categories": [
+      "Classics",
+      "Drama"
+    ],
+    "isPublicDomain": true
+  },
+  {
+    "id": "the-last-of-us-2023",
+    "title": "The Last of Us",
+    "description": "A hardened survivor escorts a teenage girl across a ruined America shaped by infection and grief.",
+    "poster": "https://images.metahub.space/poster/medium/tt3581920/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt3581920/img",
+    "releaseYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "50m",
+    "imdbId": "tt3581920",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Drama",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 9
+      },
+      {
+        "season": 2,
+        "episodes": 7
+      }
+    ]
+  },
+  {
+    "id": "stranger-things-2016",
+    "title": "Stranger Things",
+    "description": "Kids in Hawkins uncover secret experiments, alternate dimensions, and monsters from the Upside Down.",
+    "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt4574334/img",
+    "releaseYear": 2016,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "runtime": "51m",
+    "imdbId": "tt4574334",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 9
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      },
+      {
+        "season": 4,
+        "episodes": 9
+      },
+      {
+        "season": 5,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "fallout-2024",
+    "title": "Fallout",
+    "description": "A vault dweller steps into a retro-futuristic wasteland full of factions, mutants, and secrets.",
+    "poster": "https://images.metahub.space/poster/medium/tt12637874/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt12637874/img",
+    "releaseYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt12637874",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Action",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "shogun-2024",
+    "title": "Shogun",
+    "description": "A shipwrecked Englishman enters the dangerous political world of feudal Japan.",
+    "poster": "https://images.metahub.space/poster/medium/tt2788316/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2788316/img",
+    "releaseYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "runtime": "58m",
+    "imdbId": "tt2788316",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Drama",
+      "Action"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "severance-2022",
+    "title": "Severance",
+    "description": "Office workers split their memories between work and home, uncovering corporate horror beneath routine.",
+    "poster": "https://images.metahub.space/poster/medium/tt11280740/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt11280740/img",
+    "releaseYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "50m",
+    "imdbId": "tt11280740",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 9
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "house-of-the-dragon-2022",
+    "title": "House of the Dragon",
+    "description": "House Targaryen fractures over succession, dragons, and the cost of power.",
+    "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt11198330/img",
+    "releaseYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "55m",
+    "imdbId": "tt11198330",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Action",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "andor-2022",
+    "title": "Andor",
+    "description": "Cassian Andor moves from survival to rebellion inside the machinery of empire.",
+    "poster": "https://images.metahub.space/poster/medium/tt9253284/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt9253284/img",
+    "releaseYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "45m",
+    "imdbId": "tt9253284",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Action",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      }
+    ]
+  },
+  {
+    "id": "the-mandalorian-2019",
+    "title": "The Mandalorian",
+    "description": "A lone bounty hunter protects a mysterious child across the outer reaches of the galaxy.",
+    "poster": "https://images.metahub.space/poster/medium/tt8111088/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt8111088/img",
+    "releaseYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": "40m",
+    "imdbId": "tt8111088",
+    "categories": [
+      "Top TV",
+      "Action",
+      "Sci-Fi"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "loki-2021",
+    "title": "Loki",
+    "description": "The god of mischief is pulled into a timeline bureaucracy and a multiversal crisis.",
+    "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt9140554/img",
+    "releaseYear": 2021,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": "50m",
+    "imdbId": "tt9140554",
+    "categories": [
+      "Top TV",
+      "Action",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      },
+      {
+        "season": 2,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "id": "the-bear-2022",
+    "title": "The Bear",
+    "description": "A chef returns to Chicago to transform a chaotic sandwich shop and the people inside it.",
+    "poster": "https://images.metahub.space/poster/medium/tt14452776/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt14452776/img",
+    "releaseYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": "30m",
+    "imdbId": "tt14452776",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Drama",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "the-boys-2019",
+    "title": "The Boys",
+    "description": "Vigilantes fight corrupt superheroes backed by corporate power and celebrity worship.",
+    "poster": "https://images.metahub.space/poster/medium/tt1190634/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1190634/img",
+    "releaseYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt1190634",
+    "categories": [
+      "Top TV",
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      },
+      {
+        "season": 4,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "invincible-2021",
+    "title": "Invincible",
+    "description": "A teenage superhero inherits enormous power and a brutal family legacy.",
+    "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt6741278/img",
+    "releaseYear": 2021,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "50m",
+    "imdbId": "tt6741278",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Sci-Fi"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "arcane-2021",
+    "title": "Arcane",
+    "description": "Two sisters become icons on opposite sides of a divided city driven by magic and technology.",
+    "poster": "https://images.metahub.space/poster/medium/tt11126994/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt11126994/img",
+    "releaseYear": 2021,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "40m",
+    "imdbId": "tt11126994",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 9
+      },
+      {
+        "season": 2,
+        "episodes": 9
+      }
+    ]
+  },
+  {
+    "id": "blue-eye-samurai-2023",
+    "title": "Blue Eye Samurai",
+    "description": "A mixed-race swordswoman cuts through Edo-period Japan on a hidden path of revenge.",
+    "poster": "https://images.metahub.space/poster/medium/tt13309742/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt13309742/img",
+    "releaseYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "45m",
+    "imdbId": "tt13309742",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "x-men-97-2024",
+    "title": "X-Men ’97",
+    "description": "Mutants continue fighting for acceptance after the loss of Professor Xavier.",
+    "poster": "https://images.metahub.space/poster/medium/tt16026746/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt16026746/img",
+    "releaseYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "30m",
+    "imdbId": "tt16026746",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Sci-Fi"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "jujutsu-kaisen-2020",
+    "title": "Jujutsu Kaisen",
+    "description": "A student swallows a cursed object and joins sorcerers battling supernatural threats.",
+    "poster": "https://images.metahub.space/poster/medium/tt12343534/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt12343534/img",
+    "releaseYear": 2020,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "24m",
+    "imdbId": "tt12343534",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 24
+      },
+      {
+        "season": 2,
+        "episodes": 23
+      },
+      {
+        "season": 3,
+        "episodes": 12
+      }
+    ],
+    "seriesKey": "jujutsu-kaisen",
+    "seriesTitle": "Jujutsu Kaisen"
+  },
+  {
+    "id": "demon-slayer-2019",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "description": "Tanjiro becomes a demon slayer after his family is slaughtered and his sister is transformed.",
+    "poster": "https://images.metahub.space/poster/medium/tt9335498/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt9335498/img",
+    "releaseYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "24m",
+    "imdbId": "tt9335498",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 26
+      },
+      {
+        "season": 2,
+        "episodes": 18
+      },
+      {
+        "season": 3,
+        "episodes": 11
+      },
+      {
+        "season": 4,
+        "episodes": 8
+      }
+    ],
+    "seriesKey": "demon-slayer",
+    "seriesTitle": "Demon Slayer"
+  },
+  {
+    "id": "attack-on-titan-2013",
+    "title": "Attack on Titan",
+    "description": "Humanity fights towering Titans while uncovering the truth behind its walled world.",
+    "poster": "https://images.metahub.space/poster/medium/tt2560140/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2560140/img",
+    "releaseYear": 2013,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "24m",
+    "imdbId": "tt2560140",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 25
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      },
+      {
+        "season": 3,
+        "episodes": 22
+      },
+      {
+        "season": 4,
+        "episodes": 30
+      }
+    ]
+  },
+  {
+    "id": "death-note-2006",
+    "title": "Death Note",
+    "description": "A brilliant student gains a notebook that kills and begins a battle of minds with a detective.",
+    "poster": "https://images.metahub.space/poster/medium/tt0877057/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0877057/img",
+    "releaseYear": 2006,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "24m",
+    "imdbId": "tt0877057",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Crime",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 37
+      }
+    ]
+  },
+  {
+    "id": "cowboy-bebop-1998",
+    "title": "Cowboy Bebop",
+    "description": "Bounty hunters drift through space with style, debt, and haunted pasts.",
+    "poster": "https://images.metahub.space/poster/medium/tt0213338/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0213338/img",
+    "releaseYear": 1998,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "24m",
+    "imdbId": "tt0213338",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Classics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 26
+      }
+    ]
+  },
+  {
+    "id": "avatar-the-last-airbender-2005",
+    "title": "Avatar: The Last Airbender",
+    "description": "A young Avatar must master the elements and end a century-long war.",
+    "poster": "https://images.metahub.space/poster/medium/tt0417299/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0417299/img",
+    "releaseYear": 2005,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": "23m",
+    "imdbId": "tt0417299",
+    "categories": [
+      "Top TV",
+      "Anime",
+      "Action",
+      "Classics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20
+      },
+      {
+        "season": 2,
+        "episodes": 20
+      },
+      {
+        "season": 3,
+        "episodes": 21
+      }
+    ]
+  },
+  {
+    "id": "breaking-bad-2008",
+    "title": "Breaking Bad",
+    "description": "A chemistry teacher turns to making meth and transforms into a criminal kingpin.",
+    "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0903747/img",
+    "releaseYear": 2008,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "47m",
+    "imdbId": "tt0903747",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 7
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      },
+      {
+        "season": 3,
+        "episodes": 13
+      },
+      {
+        "season": 4,
+        "episodes": 13
+      },
+      {
+        "season": 5,
+        "episodes": 16
+      }
+    ]
+  },
+  {
+    "id": "better-call-saul-2015",
+    "title": "Better Call Saul",
+    "description": "Jimmy McGill’s path to becoming Saul Goodman winds through law, family, and the cartel.",
+    "poster": "https://images.metahub.space/poster/medium/tt3032476/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt3032476/img",
+    "releaseYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "46m",
+    "imdbId": "tt3032476",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      },
+      {
+        "season": 6,
+        "episodes": 13
+      }
+    ]
+  },
+  {
+    "id": "succession-2018",
+    "title": "Succession",
+    "description": "The Roy family fights for control of a media empire and each other.",
+    "poster": "https://images.metahub.space/poster/medium/tt7660850/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt7660850/img",
+    "releaseYear": 2018,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt7660850",
+    "categories": [
+      "Top TV",
+      "Drama",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 9
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "the-sopranos-1999",
+    "title": "The Sopranos",
+    "description": "A New Jersey mob boss balances panic attacks, family life, and organized crime.",
+    "poster": "https://images.metahub.space/poster/medium/tt0141842/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0141842/img",
+    "releaseYear": 1999,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "55m",
+    "imdbId": "tt0141842",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama",
+      "Classics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      },
+      {
+        "season": 3,
+        "episodes": 13
+      },
+      {
+        "season": 4,
+        "episodes": 13
+      },
+      {
+        "season": 5,
+        "episodes": 13
+      },
+      {
+        "season": 6,
+        "episodes": 21
+      }
+    ]
+  },
+  {
+    "id": "the-wire-2002",
+    "title": "The Wire",
+    "description": "Baltimore institutions reveal how crime, policing, schools, politics, and media connect.",
+    "poster": "https://images.metahub.space/poster/medium/tt0306414/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0306414/img",
+    "releaseYear": 2002,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "59m",
+    "imdbId": "tt0306414",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama",
+      "Classics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      },
+      {
+        "season": 3,
+        "episodes": 12
+      },
+      {
+        "season": 4,
+        "episodes": 13
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "chernobyl-2019",
+    "title": "Chernobyl",
+    "description": "A nuclear disaster exposes the cost of lies, courage, and institutional failure.",
+    "poster": "https://images.metahub.space/poster/medium/tt7366338/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt7366338/img",
+    "releaseYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt7366338",
+    "categories": [
+      "Top TV",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 5
+      }
+    ]
+  },
+  {
+    "id": "true-detective-2014",
+    "title": "True Detective",
+    "description": "Detectives confront brutal cases and the darkness inside their own lives.",
+    "poster": "https://images.metahub.space/poster/medium/tt2356777/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2356777/img",
+    "releaseYear": 2014,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "55m",
+    "imdbId": "tt2356777",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      },
+      {
+        "season": 4,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "id": "dark-2017",
+    "title": "Dark",
+    "description": "A German town’s missing children reveal a time-travel knot spanning generations.",
+    "poster": "https://images.metahub.space/poster/medium/tt5753856/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt5753856/img",
+    "releaseYear": 2017,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt5753856",
+    "categories": [
+      "Top TV",
+      "Sci-Fi",
+      "Drama",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "black-mirror-2011",
+    "title": "Black Mirror",
+    "description": "Anthology stories explore the anxious edges of technology and human behavior.",
+    "poster": "https://images.metahub.space/poster/medium/tt2085059/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2085059/img",
+    "releaseYear": 2011,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt2085059",
+    "categories": [
+      "Top TV",
+      "Sci-Fi",
+      "Drama",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      },
+      {
+        "season": 2,
+        "episodes": 3
+      },
+      {
+        "season": 3,
+        "episodes": 6
+      },
+      {
+        "season": 4,
+        "episodes": 6
+      },
+      {
+        "season": 5,
+        "episodes": 3
+      },
+      {
+        "season": 6,
+        "episodes": 5
+      },
+      {
+        "season": 7,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "id": "the-office-2005",
+    "title": "The Office",
+    "description": "A documentary crew captures the absurd everyday life of a paper company branch.",
+    "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0386676/img",
+    "releaseYear": 2005,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": "22m",
+    "imdbId": "tt0386676",
+    "categories": [
+      "Top TV",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      },
+      {
+        "season": 2,
+        "episodes": 22
+      },
+      {
+        "season": 3,
+        "episodes": 23
+      },
+      {
+        "season": 4,
+        "episodes": 14
+      },
+      {
+        "season": 5,
+        "episodes": 26
+      },
+      {
+        "season": 6,
+        "episodes": 26
+      },
+      {
+        "season": 7,
+        "episodes": 24
+      },
+      {
+        "season": 8,
+        "episodes": 24
+      },
+      {
+        "season": 9,
+        "episodes": 25
+      }
+    ]
+  },
+  {
+    "id": "friends-1994",
+    "title": "Friends",
+    "description": "Six friends navigate work, love, and adulthood in New York apartments and coffee shops.",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0108778/img",
+    "releaseYear": 1994,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "runtime": "22m",
+    "imdbId": "tt0108778",
+    "categories": [
+      "Top TV",
+      "Comedy",
+      "Classics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 24
+      },
+      {
+        "season": 2,
+        "episodes": 24
+      },
+      {
+        "season": 3,
+        "episodes": 25
+      },
+      {
+        "season": 4,
+        "episodes": 24
+      },
+      {
+        "season": 5,
+        "episodes": 24
+      },
+      {
+        "season": 6,
+        "episodes": 25
+      },
+      {
+        "season": 7,
+        "episodes": 24
+      },
+      {
+        "season": 8,
+        "episodes": 24
+      },
+      {
+        "season": 9,
+        "episodes": 24
+      },
+      {
+        "season": 10,
+        "episodes": 18
+      }
+    ]
+  },
+  {
+    "id": "sherlock-2010",
+    "title": "Sherlock",
+    "description": "Sherlock Holmes and John Watson solve modern cases with brilliance and danger.",
+    "poster": "https://images.metahub.space/poster/medium/tt1475582/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1475582/img",
+    "releaseYear": 2010,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "1h 28m",
+    "imdbId": "tt1475582",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      },
+      {
+        "season": 2,
+        "episodes": 3
+      },
+      {
+        "season": 3,
+        "episodes": 3
+      },
+      {
+        "season": 4,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "id": "game-of-thrones-2011",
+    "title": "Game of Thrones",
+    "description": "Noble houses, exiles, and ancient threats battle for power across Westeros.",
+    "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0944947/img",
+    "releaseYear": 2011,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "57m",
+    "imdbId": "tt0944947",
+    "categories": [
+      "Top TV",
+      "Action",
+      "Drama",
+      "Classics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      },
+      {
+        "season": 6,
+        "episodes": 10
+      },
+      {
+        "season": 7,
+        "episodes": 7
+      },
+      {
+        "season": 8,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "id": "silo-2023",
+    "title": "Silo",
+    "description": "Thousands live underground under strict rules while a mechanic searches for forbidden truth.",
+    "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt14688458/img",
+    "releaseYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "49m",
+    "imdbId": "tt14688458",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "three-body-problem-2024",
+    "title": "3 Body Problem",
+    "description": "Scientists uncover a threat from beyond Earth connected to a brutal historical mystery.",
+    "poster": "https://images.metahub.space/poster/medium/tt13016388/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt13016388/img",
+    "releaseYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt13016388",
+    "categories": [
+      "Top TV",
+      "Trending",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "wednesday-2022",
+    "title": "Wednesday",
+    "description": "Wednesday Addams investigates murders and secrets at Nevermore Academy.",
+    "poster": "https://images.metahub.space/poster/medium/tt13443470/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt13443470/img",
+    "releaseYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "runtime": "45m",
+    "imdbId": "tt13443470",
+    "categories": [
+      "Top TV",
+      "Comedy",
+      "Crime",
+      "Horror"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "the-white-lotus-2021",
+    "title": "The White Lotus",
+    "description": "Luxury resort guests and staff unravel under privilege, desire, and sharp social pressure.",
+    "poster": "https://images.metahub.space/poster/medium/tt13406094/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt13406094/img",
+    "releaseYear": 2021,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt13406094",
+    "categories": [
+      "Top TV",
+      "Drama",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      },
+      {
+        "season": 2,
+        "episodes": 7
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "id": "mindhunter-2017",
+    "title": "Mindhunter",
+    "description": "FBI agents interview serial killers to build the earliest forms of criminal profiling.",
+    "poster": "https://images.metahub.space/poster/medium/tt5290382/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt5290382/img",
+    "releaseYear": 2017,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt5290382",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 9
+      }
+    ]
+  },
+  {
+    "id": "fargo-2014",
+    "title": "Fargo",
+    "description": "Ordinary people and criminals collide in darkly funny Midwestern crime stories.",
+    "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2802850/img",
+    "releaseYear": 2014,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "53m",
+    "imdbId": "tt2802850",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 11
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "id": "mr-robot-2015",
+    "title": "Mr. Robot",
+    "description": "A hacker joins a revolution while his mind and the system around him fracture.",
+    "poster": "https://images.metahub.space/poster/medium/tt4158110/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt4158110/img",
+    "releaseYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "49m",
+    "imdbId": "tt4158110",
+    "categories": [
+      "Top TV",
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 13
+      }
+    ]
+  },
+  {
+    "id": "the-expanse-2015",
+    "title": "The Expanse",
+    "description": "A fragile solar system faces conspiracy, class conflict, and alien technology.",
+    "poster": "https://images.metahub.space/poster/medium/tt3230854/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt3230854/img",
+    "releaseYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "1h",
+    "imdbId": "tt3230854",
+    "categories": [
+      "Top TV",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      },
+      {
+        "season": 3,
+        "episodes": 13
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      },
+      {
+        "season": 6,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "id": "dune-2021",
+    "title": "Dune",
+    "description": "Paul Atreides enters the desert world of Arrakis as rival houses fight over spice, power, and prophecy.",
+    "releaseYear": 2021,
+    "type": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": "2h 35m",
+    "imdbId": "tt1160419",
+    "categories": [
+      "Popular Movies",
+      "Sci-Fi",
+      "Action",
+      "Drama"
+    ],
+    "seriesKey": "dune",
+    "seriesTitle": "Dune",
+    "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt1160419/img"
+  },
+  {
+    "id": "mission-impossible-the-final-reckoning-2025",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "description": "Ethan Hunt and the IMF race to stop the Entity before it rewrites the future of global intelligence.",
+    "releaseYear": 2025,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "runtime": "2h 49m",
+    "imdbId": "tt9603208",
+    "categories": [
+      "Trending",
+      "Popular Movies",
+      "Action"
+    ],
+    "seriesKey": "mission-impossible",
+    "seriesTitle": "Mission: Impossible",
+    "poster": "https://images.metahub.space/poster/medium/tt9603208/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt9603208/img"
+  },
+  {
+    "id": "john-wick-chapter-3-parabellum-2019",
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "description": "John Wick is declared excommunicado and every assassin in New York comes hunting for the bounty.",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": "2h 10m",
+    "imdbId": "tt6146586",
+    "categories": [
+      "Action",
+      "Crime"
+    ],
+    "seriesKey": "john-wick",
+    "seriesTitle": "John Wick",
+    "poster": "https://images.metahub.space/poster/medium/tt6146586/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt6146586/img"
+  },
+  {
+    "id": "spider-man-homecoming-2017",
+    "title": "Spider-Man: Homecoming",
+    "description": "Peter Parker balances high school with proving himself as a neighborhood hero under Tony Stark watch.",
+    "releaseYear": 2017,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": "2h 13m",
+    "imdbId": "tt2250912",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Comedy"
+    ],
+    "seriesKey": "mcu-spider-man",
+    "seriesTitle": "Spider-Man",
+    "poster": "https://images.metahub.space/poster/medium/tt2250912/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt2250912/img"
+  },
+  {
+    "id": "spider-man-far-from-home-2019",
+    "title": "Spider-Man: Far from Home",
+    "description": "Peter Parker takes a school trip to Europe and faces a new threat wrapped in illusion and grief.",
+    "releaseYear": 2019,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": "2h 9m",
+    "imdbId": "tt6320628",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Comedy"
+    ],
+    "seriesKey": "mcu-spider-man",
+    "seriesTitle": "Spider-Man",
+    "poster": "https://images.metahub.space/poster/medium/tt6320628/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt6320628/img"
+  },
+  {
+    "id": "avengers-infinity-war-2018",
+    "title": "Avengers: Infinity War",
+    "description": "The Avengers and their allies try to stop Thanos before he gathers every Infinity Stone.",
+    "releaseYear": 2018,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 29m",
+    "imdbId": "tt4154756",
+    "categories": [
+      "Popular Movies",
+      "Action",
+      "Sci-Fi"
+    ],
+    "seriesKey": "avengers",
+    "seriesTitle": "Avengers",
+    "poster": "https://images.metahub.space/poster/medium/tt4154756/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt4154756/img"
+  },
+  {
+    "id": "the-matrix-reloaded-2003",
+    "title": "The Matrix Reloaded",
+    "description": "Neo, Trinity, and Morpheus push deeper into the machine war as Zion faces annihilation.",
+    "releaseYear": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 18m",
+    "imdbId": "tt0234215",
+    "categories": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "seriesKey": "matrix",
+    "seriesTitle": "The Matrix",
+    "poster": "https://images.metahub.space/poster/medium/tt0234215/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0234215/img"
+  },
+  {
+    "id": "the-matrix-revolutions-2003",
+    "title": "The Matrix Revolutions",
+    "description": "Neo makes a final bargain as humans and machines collide in the battle for Zion.",
+    "releaseYear": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 9m",
+    "imdbId": "tt0242653",
+    "categories": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "seriesKey": "matrix",
+    "seriesTitle": "The Matrix",
+    "poster": "https://images.metahub.space/poster/medium/tt0242653/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0242653/img"
+  },
+  {
+    "id": "the-godfather-part-ii-1974",
+    "title": "The Godfather Part II",
+    "description": "Michael Corleone expands the family empire while the young Vito rises through old New York.",
+    "releaseYear": 1974,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "3h 22m",
+    "imdbId": "tt0071562",
+    "categories": [
+      "Classics",
+      "Crime",
+      "Drama"
+    ],
+    "seriesKey": "godfather",
+    "seriesTitle": "The Godfather",
+    "poster": "https://images.metahub.space/poster/medium/tt0071562/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0071562/img"
+  },
+  {
+    "id": "harry-potter-and-the-chamber-of-secrets-2002",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "Harry returns to Hogwarts as a hidden chamber opens and a dangerous force stalks the school.",
+    "releaseYear": 2002,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": "2h 41m",
+    "imdbId": "tt0295297",
+    "categories": [
+      "Popular Movies",
+      "Action"
+    ],
+    "seriesKey": "harry-potter",
+    "seriesTitle": "Harry Potter",
+    "poster": "https://images.metahub.space/poster/medium/tt0295297/img",
+    "backdrop": "https://images.metahub.space/background/medium/tt0295297/img"
+  }
+]

@@ -1,0 +1,225 @@
+.panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 45;
+  display: grid;
+  grid-template-rows: auto auto auto minmax(0, 1fr);
+  width: 420px;
+  height: 100vh;
+  border-left: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(8, 10, 15, 0.96);
+  box-shadow: -28px 0 70px rgba(0, 0, 0, 0.42);
+  color: var(--color-text);
+  backdrop-filter: blur(20px);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 72px;
+  padding: 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.header div:first-child {
+  display: grid;
+  gap: 2px;
+}
+
+.header span,
+.environment span {
+  color: var(--color-subtle);
+  font-size: 11px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.header strong {
+  color: var(--color-text);
+  font-size: 18px;
+}
+
+.headerActions {
+  display: flex;
+  gap: 6px;
+}
+
+.headerActions button,
+.noteForm button,
+.openTab {
+  display: inline-grid;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--color-text);
+  cursor: pointer;
+}
+
+.headerActions button:hover,
+.noteForm button:hover,
+.openTab:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.headerActions button[aria-pressed="true"] {
+  background: #f2b705;
+  color: #080a0f;
+}
+
+.environment {
+  display: grid;
+  gap: 10px;
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.environment dl {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+}
+
+.environment div {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 10px;
+}
+
+.environment dt {
+  color: var(--color-subtle);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.environment dd {
+  min-width: 0;
+  margin: 0;
+  overflow-wrap: anywhere;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.noteForm {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.noteForm input {
+  min-width: 0;
+  height: 36px;
+  padding: 0 12px;
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.07);
+  color: var(--color-text);
+  font: inherit;
+  font-size: 13px;
+}
+
+.logList {
+  display: grid;
+  align-content: start;
+  gap: 10px;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 14px 16px 18px;
+}
+
+.entry {
+  display: grid;
+  gap: 8px;
+  padding: 11px;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-left: 3px solid rgba(255, 255, 255, 0.34);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.entry[data-level="success"] {
+  border-left-color: #66d18f;
+}
+
+.entry[data-level="warn"] {
+  border-left-color: #f2b705;
+}
+
+.entry[data-level="error"] {
+  border-left-color: #ff5964;
+}
+
+.entryMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+  color: var(--color-subtle);
+  font-family: var(--font-mono);
+  font-size: 11px;
+}
+
+.entryMeta span {
+  color: var(--color-accent);
+  text-transform: uppercase;
+}
+
+.entryMeta strong {
+  color: rgba(255, 255, 255, 0.78);
+  font-weight: 800;
+}
+
+.entry p {
+  margin: 0;
+  overflow-wrap: anywhere;
+  color: var(--color-text);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.entry pre {
+  max-height: 220px;
+  margin: 0;
+  overflow: auto;
+  padding: 10px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.3);
+  color: rgba(255, 255, 255, 0.78);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.empty {
+  display: grid;
+  min-height: 140px;
+  place-items: center;
+  border: 1px dashed rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  color: var(--color-subtle);
+  font-size: 13px;
+}
+
+.openTab {
+  position: fixed;
+  right: 14px;
+  bottom: 14px;
+  z-index: 45;
+}
+
+@media (max-width: 1100px) {
+  .panel {
+    width: min(420px, 100vw);
+  }
+}

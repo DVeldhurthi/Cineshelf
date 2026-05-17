@@ -1,0 +1,47 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Cineshelf",
+  "version": "0.1.0",
+  "identifier": "com.dhruva.cineshelf",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "Cineshelf",
+        "width": 1440,
+        "height": 900,
+        "minWidth": 1024,
+        "minHeight": 700,
+        "center": true,
+        "resizable": true,
+        "focus": true,
+        "acceptFirstMouse": true,
+        "allowLinkPreview": false,
+        "backgroundThrottling": "disabled",
+        "devtools": true,
+        "useHttpsScheme": true,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self' ipc: http://ipc.localhost https: http: data: blob: ws: wss:; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' https: http: data: blob:; style-src 'self' 'unsafe-inline' https: http: data: blob:; img-src 'self' https: http: data: blob:; font-src 'self' https: http: data: blob:; connect-src 'self' ipc: http://ipc.localhost https: http: ws: wss:; frame-src 'self' https: http: data: blob: https://vidsrc.to https://vidsrc.me https://vidsrcme.ru https://vidsrc-embed.ru https://vidsrc-embed.su https://vidsrcme.su https://vsrc.su; child-src 'self' https: http: data: blob: https://vidsrc.to https://vidsrc.me https://vidsrcme.ru https://vidsrc-embed.ru https://vidsrc-embed.su https://vidsrcme.su https://vsrc.su; media-src 'self' https: http: data: blob:; worker-src 'self' https: http: data: blob:; object-src 'none'; base-uri 'self'; form-action 'self' https: http:"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ]
+  }
+}

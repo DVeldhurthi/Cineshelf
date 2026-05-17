@@ -1,0 +1,381 @@
+.page {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 28px;
+  width: min(1480px, calc(100% - 64px));
+  margin: 0 auto;
+  padding: 34px 0 68px;
+}
+
+.playerColumn {
+  display: grid;
+  align-content: start;
+  gap: 16px;
+  min-width: 0;
+}
+
+.playerActions {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) minmax(140px, 0.8fr) minmax(210px, 1.1fr) minmax(230px, 1.2fr) minmax(130px, 0.75fr);
+  align-items: end;
+  gap: 10px;
+}
+
+.playerActions button,
+.configError a,
+.mirrorControl select {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 14px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--color-text);
+  cursor: pointer;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 850;
+  text-decoration: none;
+}
+
+.playerActions button {
+  width: 100%;
+  min-width: 0;
+}
+
+.playerActions button span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mirrorControl {
+  display: inline-grid;
+  gap: 5px;
+  min-width: 0;
+}
+
+.mirrorControl span {
+  color: var(--color-subtle);
+  font-size: 11px;
+  font-weight: 850;
+}
+
+.mirrorControl select {
+  width: 100%;
+  appearance: none;
+}
+
+.playerActions button:hover,
+.configError a:hover,
+.mirrorControl select:hover,
+.playerActions .savedButton {
+  background: #ffffff;
+  color: #080a0f;
+}
+
+.playerActions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.48;
+}
+
+.detailsPanel {
+  display: grid;
+  align-content: start;
+  gap: 18px;
+  min-width: 0;
+}
+
+.poster {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+}
+
+.metadata {
+  display: grid;
+  gap: 14px;
+}
+
+.kicker {
+  margin: 0;
+  color: var(--color-accent);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.metadata h1 {
+  margin: 0;
+  color: var(--color-text);
+  font-size: 36px;
+  line-height: 1.05;
+}
+
+.metadata p:not(.kicker) {
+  margin: 0;
+  color: var(--color-muted);
+  line-height: 1.6;
+}
+
+.facts,
+.genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.facts span,
+.genres span {
+  min-height: 28px;
+  padding: 6px 9px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.mirrorBox {
+  display: grid;
+  gap: 6px;
+  padding: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.mirrorBox span {
+  color: var(--color-subtle);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.mirrorBox strong {
+  color: var(--color-text);
+}
+
+.mirrorBox code {
+  overflow-wrap: anywhere;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.configError {
+  display: grid;
+  min-height: 360px;
+  place-items: center;
+  align-content: center;
+  gap: 10px;
+  padding: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  text-align: center;
+}
+
+.configError h2 {
+  margin: 0;
+  color: var(--color-text);
+}
+
+.configError p {
+  margin: 0 0 8px;
+  color: var(--color-muted);
+}
+
+.errorText {
+  margin: 0;
+  padding: 12px;
+  border: 1px solid rgba(244, 67, 54, 0.28);
+  border-radius: 8px;
+  background: rgba(244, 67, 54, 0.1);
+  color: #ffc9c9;
+}
+
+.playerHint {
+  margin: 0;
+  color: var(--color-subtle);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.sameSeries {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.065), rgba(255, 255, 255, 0.035)),
+    rgba(255, 255, 255, 0.035);
+}
+
+.sameSeriesHeader {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.sameSeriesHeader p {
+  margin: 0 0 4px;
+  color: var(--color-accent);
+  font-size: 11px;
+  font-weight: 850;
+}
+
+.sameSeriesHeader h2 {
+  margin: 0;
+  color: var(--color-text);
+  font-size: 20px;
+  line-height: 1.15;
+}
+
+.sameSeriesHeader span {
+  color: var(--color-subtle);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.sameSeriesScroller {
+  display: flex;
+  gap: 13px;
+  overflow-x: auto;
+  padding: 2px 2px 10px;
+  scroll-padding-inline: 16px;
+}
+
+.sameSeriesScroller::-webkit-scrollbar {
+  height: 9px;
+}
+
+.sameSeriesScroller::-webkit-scrollbar-thumb {
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.2);
+  background-clip: padding-box;
+}
+
+.seriesCard {
+  display: grid;
+  flex: 0 0 132px;
+  gap: 8px;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+}
+
+.seriesPoster {
+  position: relative;
+  aspect-ratio: 2 / 3;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  box-shadow: 0 16px 30px rgba(0, 0, 0, 0.25);
+  transition:
+    border-color 160ms ease,
+    filter 160ms ease,
+    transform 160ms ease;
+}
+
+.seriesPoster::after {
+  position: absolute;
+  inset: auto 0 0;
+  height: 40%;
+  background: linear-gradient(180deg, transparent, rgba(5, 7, 11, 0.78));
+  content: "";
+}
+
+.seriesCard:hover .seriesPoster {
+  border-color: rgba(255, 255, 255, 0.28);
+  filter: saturate(1.08);
+  transform: translateY(-3px);
+}
+
+.seriesBadge {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  z-index: 1;
+  display: inline-flex;
+  gap: 4px;
+  align-items: center;
+  min-height: 24px;
+  padding: 0 7px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  background: rgba(8, 10, 15, 0.74);
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 10px;
+  font-weight: 850;
+}
+
+.seriesTitle {
+  overflow: hidden;
+  color: var(--color-text);
+  font-size: 13px;
+  font-weight: 850;
+  line-height: 1.25;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.seriesMeta {
+  overflow: hidden;
+  color: var(--color-subtle);
+  font-size: 11px;
+  font-weight: 800;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (max-width: 1080px) {
+  .page {
+    grid-template-columns: 1fr;
+  }
+
+  .playerActions {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .mirrorControl {
+    grid-column: 1 / -1;
+  }
+
+  .detailsPanel {
+    grid-template-columns: 170px 1fr;
+    align-items: start;
+  }
+}
+
+@media (max-width: 720px) {
+  .page {
+    width: calc(100% - 36px);
+  }
+
+  .detailsPanel {
+    grid-template-columns: 1fr;
+  }
+
+  .poster {
+    max-width: 220px;
+  }
+
+  .playerActions {
+    grid-template-columns: 1fr;
+  }
+
+  .mirrorControl {
+    grid-column: auto;
+  }
+
+  .seriesCard {
+    flex-basis: 118px;
+  }
+}

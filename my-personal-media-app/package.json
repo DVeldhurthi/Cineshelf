@@ -1,0 +1,37 @@
+{
+  "name": "cineshelf",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build",
+    "pretauri:build:windows": "node scripts/assert-windows-build-host.mjs",
+    "tauri:build:windows": "tauri build --bundles nsis msi",
+    "pretauri:build:windows:exe": "node scripts/assert-windows-build-host.mjs",
+    "tauri:build:windows:exe": "tauri build --bundles nsis",
+    "pretauri:build:windows:msi": "node scripts/assert-windows-build-host.mjs",
+    "tauri:build:windows:msi": "tauri build --bundles msi"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2",
+    "@tauri-apps/plugin-opener": "^2",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.3",
+    "zustand": "^5.0.13"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+    "@types/react": "^18.3.28",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.6.0",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.4"
+  }
+}

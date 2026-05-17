@@ -1,0 +1,8 @@
+.page {
+  padding-bottom: 56px;
+}
+
+.rows {
+  display: grid;
+  gap: 34px;
+}

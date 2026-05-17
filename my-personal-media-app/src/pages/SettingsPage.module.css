@@ -1,0 +1,300 @@
+.page {
+  display: grid;
+  gap: 20px;
+  width: min(1180px, calc(100% - 64px));
+  margin: 0 auto;
+  padding: 46px 0 72px;
+}
+
+.header p,
+.panelHeader p {
+  margin: 0 0 8px;
+  color: var(--color-accent);
+  font-size: 13px;
+  font-weight: 850;
+}
+
+.header h1,
+.panelHeader h2 {
+  margin: 0;
+  color: var(--color-text);
+}
+
+.header h1 {
+  font-size: 44px;
+}
+
+.panel {
+  display: grid;
+  gap: 18px;
+  padding: 22px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.panelHeader {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.panelCopy {
+  margin: 0;
+  color: var(--color-muted);
+  line-height: 1.6;
+}
+
+.switch {
+  position: relative;
+  display: inline-grid;
+  width: 58px;
+  height: 32px;
+  cursor: pointer;
+}
+
+.selectControl {
+  display: grid;
+  gap: 6px;
+  width: min(320px, 100%);
+}
+
+.selectControl span {
+  color: var(--color-subtle);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.selectControl select {
+  min-height: 40px;
+  padding: 0 11px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: #151922;
+  color: var(--color-text);
+  font: inherit;
+}
+
+.switch input {
+  position: absolute;
+  opacity: 0;
+}
+
+.switch span {
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.12);
+  transition: background 160ms ease;
+}
+
+.switch span::after {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #ffffff;
+  content: "";
+  transition: transform 160ms ease;
+}
+
+.switch input:checked + span {
+  background: #d64045;
+}
+
+.switch input:checked + span::after {
+  transform: translateX(26px);
+}
+
+.resetButton,
+.mirrorActions button,
+.addMirror button {
+  display: inline-flex;
+  gap: 7px;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 0 12px;
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.07);
+  color: var(--color-text);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 850;
+}
+
+.resetButton:hover,
+.mirrorActions button:hover,
+.addMirror button:hover,
+.mirrorActions .activeButton {
+  background: #ffffff;
+  color: #080a0f;
+}
+
+.feedback {
+  min-height: 22px;
+  color: var(--color-muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.success {
+  color: #80ed99;
+}
+
+.error {
+  color: #ffc9c9;
+}
+
+.mirrorList {
+  display: grid;
+  gap: 12px;
+}
+
+.mirrorRow {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: center;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.16);
+}
+
+.mirrorMeta {
+  display: grid;
+  gap: 5px;
+  min-width: 0;
+}
+
+.mirrorMeta span {
+  color: var(--color-accent);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.mirrorMeta strong {
+  overflow: hidden;
+  color: var(--color-text);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mirrorMeta code {
+  overflow-wrap: anywhere;
+  color: var(--color-subtle);
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.mirrorMeta em {
+  color: rgba(255, 255, 255, 0.66);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.mirrorFields {
+  display: grid;
+  grid-template-columns: minmax(120px, 0.6fr) minmax(180px, 1.1fr) minmax(140px, 0.6fr);
+  gap: 10px;
+}
+
+.mirrorFields label,
+.addMirror label {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+}
+
+.mirrorFields label span,
+.addMirror label span {
+  color: var(--color-subtle);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.mirrorFields input,
+.mirrorFields select,
+.addMirror input,
+.addMirror select {
+  width: 100%;
+  min-height: 40px;
+  padding: 0 11px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  outline: 0;
+  background: #151922;
+  color: var(--color-text);
+  font: inherit;
+}
+
+.mirrorActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: end;
+}
+
+.mirrorActions .dangerButton {
+  width: 40px;
+  padding: 0;
+}
+
+.mirrorActions .dangerButton:hover {
+  border-color: rgba(244, 67, 54, 0.4);
+  background: rgba(244, 67, 54, 0.16);
+  color: #ffc9c9;
+}
+
+.addMirror {
+  display: grid;
+  grid-template-columns: 220px minmax(120px, 0.6fr) minmax(180px, 1fr) minmax(140px, 0.6fr) auto;
+  gap: 12px;
+  align-items: end;
+  padding-top: 18px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.addMirror h3 {
+  margin: 0 0 6px;
+  color: var(--color-text);
+}
+
+.addMirror p {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+@media (max-width: 980px) {
+  .mirrorRow,
+  .addMirror {
+    grid-template-columns: 1fr;
+  }
+
+  .mirrorActions {
+    justify-content: start;
+  }
+}
+
+@media (max-width: 720px) {
+  .page {
+    width: calc(100% - 36px);
+  }
+
+  .panelHeader {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .mirrorFields {
+    grid-template-columns: 1fr;
+  }
+}

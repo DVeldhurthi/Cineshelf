@@ -108,3 +108,8 @@ Windows SmartScreen may show a warning when opening the installer. This is expec
 ## Disclaimer
 
 Cineshelf is a personal media browsing project. Users are responsible for following the laws and terms that apply to their region and to any media sources they use.
+
+## License
+
+This project currently does not include an open-source license.  
+The code is shared for personal viewing and use only. Do not redistribute, modify, or reupload without permission.

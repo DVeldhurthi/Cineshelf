@@ -5,7 +5,6 @@ import styles from "./SearchControls.module.css";
 type SearchControlsProps = {
   filters: SearchFilters;
   genres: string[];
-  decades: string[];
   onChange: (filters: SearchFilters) => void;
   onReset: () => void;
 };
@@ -13,7 +12,6 @@ type SearchControlsProps = {
 export function SearchControls({
   filters,
   genres,
-  decades,
   onChange,
   onReset,
 }: SearchControlsProps) {
@@ -34,7 +32,7 @@ export function SearchControls({
         <input
           value={filters.query}
           onChange={(event) => updateFilter("query", event.currentTarget.value)}
-          placeholder="Search title, genre, year, IMDb ID"
+          placeholder="Search titles, genres, years, IMDb IDs"
         />
         {filters.query ? (
           <button
@@ -76,21 +74,6 @@ export function SearchControls({
             {genres.map((genre) => (
               <option key={genre} value={genre}>
                 {genre}
-              </option>
-            ))}
-          </select>
-        </label>
-
-        <label>
-          <span>Decade</span>
-          <select
-            value={filters.decade}
-            onChange={(event) => updateFilter("decade", event.currentTarget.value)}
-          >
-            <option value="all">All decades</option>
-            {decades.map((decade) => (
-              <option key={decade} value={decade}>
-                {decade}
               </option>
             ))}
           </select>

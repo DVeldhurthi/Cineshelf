@@ -1,3 +1,5 @@
+import type { AnimeApiMirror } from "./anime";
+
 export type VideoKind = "movie" | "tv";
 
 export type VideoSeason = {
@@ -61,4 +63,8 @@ export type AppSettings = {
   activeMirrorId: string;
   warnBeforeExternalPlayer: boolean;
   vidSrcLookupSource: VidSrcLookupSource;
+  miruroApiBaseUrl: string;
+  animeApiMirrors: AnimeApiMirror[];
+  activeAnimeApiMirrorId: string;
+  showMatureAnimeSection: boolean;
 };

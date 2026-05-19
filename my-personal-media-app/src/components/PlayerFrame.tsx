@@ -20,6 +20,7 @@ const iframeReferrerPolicy = "no-referrer";
 export function PlayerFrame({ src, frameKey, title, onReviewWarning, onRetry }: PlayerFrameProps) {
   const [isLoading, setIsLoading] = useState(Boolean(src));
   const [loadError, setLoadError] = useState<string | null>(null);
+  const iframeRef = useRef<HTMLIFrameElement | null>(null);
   const timeoutRef = useRef<number | null>(null);
   const loadStartedAtRef = useRef<number | null>(null);
 
@@ -34,6 +35,11 @@ export function PlayerFrame({ src, frameKey, title, onReviewWarning, onRetry }: 
     clearLoadTimeout();
 
     if (!src) {
+      if (iframeRef.current) {
+        iframeRef.current.src = "about:blank";
+        iframeRef.current.removeAttribute("src");
+      }
+
       setIsLoading(false);
       setLoadError(null);
       return;
@@ -67,7 +73,14 @@ export function PlayerFrame({ src, frameKey, title, onReviewWarning, onRetry }: 
       );
     }, 18000);
 
-    return clearLoadTimeout;
+    return () => {
+      clearLoadTimeout();
+
+      if (iframeRef.current) {
+        iframeRef.current.src = "about:blank";
+        iframeRef.current.removeAttribute("src");
+      }
+    };
   }, [src, frameKey]);
 
   if (!src) {
@@ -105,7 +118,8 @@ export function PlayerFrame({ src, frameKey, title, onReviewWarning, onRetry }: 
       ) : null}
 
       <iframe
-        key={src}
+        key={frameKey}
+        ref={iframeRef}
         title={`Sandboxed player for ${title}`}
         src={src}
         sandbox={iframeSandbox}

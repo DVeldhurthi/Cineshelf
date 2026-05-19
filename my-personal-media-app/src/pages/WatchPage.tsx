@@ -1,6 +1,6 @@
-import { useEffect, useMemo, useState } from "react";
-import { Check, ExternalLink, Heart, MonitorPlay, RotateCcw, Settings, Tv } from "lucide-react";
-import { Link, Navigate, useParams } from "react-router-dom";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { ArrowLeft, Check, ExternalLink, Heart, MonitorPlay, RotateCcw, Settings, Tv } from "lucide-react";
+import { Link, Navigate, useLocation, useNavigate, useParams } from "react-router-dom";
 import { EpisodeSelector } from "../components/EpisodeSelector";
 import { PlayerFrame } from "../components/PlayerFrame";
 import { PosterImage } from "../components/PosterImage";
@@ -11,7 +11,7 @@ import { useMediaStore } from "../store/useMediaStore";
 import type { Video } from "../types/video";
 import { buildVidSrcUrl, getActiveMirror, getVidSrcLookupId } from "../utils/vidsrc";
 import { openExternalUrl } from "../utils/openExternal";
-import { openPlayerWebviewWindow } from "../utils/openPlayerWebview";
+import { openVidSrcPlayerWindow } from "../utils/openVidSrcPlayer";
 import styles from "./WatchPage.module.css";
 
 const getErrorMessage = (error: unknown) =>
@@ -62,6 +62,8 @@ function SameSeriesSection({ currentVideo, videos }: { currentVideo: Video; vide
 
 export function WatchPage() {
   const { id } = useParams();
+  const location = useLocation();
+  const navigate = useNavigate();
   const video = getVideoById(id);
   const settings = useMediaStore((state) => state.settings);
   const watchlistIds = useMediaStore((state) => state.watchlistIds);
@@ -77,6 +79,7 @@ export function WatchPage() {
   const [dismissedWarning, setDismissedWarning] = useState(false);
   const [externalError, setExternalError] = useState<string | null>(null);
   const [playerRefreshNonce, setPlayerRefreshNonce] = useState(0);
+  const retryTimeoutRef = useRef<number | null>(null);
 
   const activeMirror = getActiveMirror(settings);
   const enabledMirrors = settings.mirrors.filter((mirror) => mirror.enabled);
@@ -116,6 +119,20 @@ export function WatchPage() {
   }, [continueEntry?.episode, continueEntry?.season, video]);
 
   useEffect(() => {
+    return () => {
+      if (retryTimeoutRef.current !== null) {
+        window.clearTimeout(retryTimeoutRef.current);
+        retryTimeoutRef.current = null;
+      }
+    };
+  }, []);
+
+  useEffect(() => {
+    if (retryTimeoutRef.current !== null) {
+      window.clearTimeout(retryTimeoutRef.current);
+      retryTimeoutRef.current = null;
+    }
+
     setConfirmedUrl(settings.warnBeforeExternalPlayer ? null : embedUrl);
     setDismissedWarning(false);
     setExternalError(null);
@@ -218,7 +235,14 @@ export function WatchPage() {
     }, "warn");
     setConfirmedUrl(null);
     setPlayerRefreshNonce((currentNonce) => currentNonce + 1);
-    window.setTimeout(() => setConfirmedUrl(embedUrl), 0);
+    if (retryTimeoutRef.current !== null) {
+      window.clearTimeout(retryTimeoutRef.current);
+    }
+
+    retryTimeoutRef.current = window.setTimeout(() => {
+      retryTimeoutRef.current = null;
+      setConfirmedUrl(embedUrl);
+    }, 0);
   };
 
   const openInTauriPlayerWindow = async () => {
@@ -232,7 +256,7 @@ export function WatchPage() {
         url: embedUrl,
         mirrorId: activeMirror.id,
       });
-      await openPlayerWebviewWindow(embedUrl, video.title);
+      await openVidSrcPlayerWindow(embedUrl, video.title);
       recordPlayback();
     } catch (error) {
       debugLog("watch", "Tauri player window failed.", error, "error");
@@ -305,8 +329,24 @@ export function WatchPage() {
     }
   };
 
+  const goBack = () => {
+    if (location.key === "default") {
+      navigate("/", { replace: true });
+      return;
+    }
+
+    navigate(-1);
+  };
+
   return (
     <div className={styles.page}>
+      <div className={styles.backBar}>
+        <button type="button" onClick={goBack}>
+          <ArrowLeft size={17} aria-hidden="true" />
+          <span>Back</span>
+        </button>
+      </div>
+
       <section className={styles.playerColumn}>
         {embedUrl ? (
           <PlayerFrame

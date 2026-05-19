@@ -3,6 +3,10 @@
 A private personal desktop media streaming shell built with Tauri 2, React 18,
 TypeScript, Vite, React Router DOM v6, Zustand, and CSS Modules.
 
+Movies and TV shows use the existing configurable VidSrc mirrors. Anime is
+loaded dynamically from a configurable Miruro-compatible API and opens streams in
+the same Tauri player-window flow.
+
 ## Security Model
 
 - VidSrc embeds are not mounted until the warning modal is accepted, unless the
@@ -86,6 +90,19 @@ Default mirrors:
 The VidSrc embed endpoints above are free/no-key URLs. They may still report
 "media unavailable" for individual IMDb IDs when a given mirror does not have
 that title.
+
+## Anime API
+
+The Anime section uses a Miruro-compatible API base URL from Settings. The
+default is:
+
+```text
+https://animeclud.shop
+```
+
+The app fetches anime collections, search, details, episodes, and stream sources
+through a small Tauri command so the desktop app is not blocked by browser CORS.
+If the public API instance changes, update the base URL in Settings.
 
 ## Install
 

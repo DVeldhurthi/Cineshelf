@@ -1,0 +1,70 @@
+.page {
+  padding-bottom: 64px;
+}
+
+.header {
+  width: min(1280px, calc(100% - 64px));
+  margin: 0 auto;
+  padding: 46px 0 24px;
+}
+
+.header p {
+  margin: 0 0 8px;
+  color: var(--color-accent);
+  font-size: 13px;
+  font-weight: 850;
+}
+
+.header h1 {
+  margin: 0;
+  color: var(--color-text);
+  font-size: 48px;
+  line-height: 1.05;
+}
+
+.header span {
+  display: block;
+  margin-top: 10px;
+  color: var(--color-muted);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.searchBox {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  width: min(720px, calc(100% - 64px));
+  min-height: 48px;
+  margin: 0 auto 34px;
+  padding: 0 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.07);
+  color: var(--color-subtle);
+}
+
+.searchBox input {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--color-text);
+  font: inherit;
+}
+
+.rows {
+  display: grid;
+  gap: 34px;
+}
+
+@media (max-width: 720px) {
+  .header,
+  .searchBox {
+    width: calc(100% - 36px);
+  }
+
+  .header h1 {
+    font-size: 40px;
+  }
+}

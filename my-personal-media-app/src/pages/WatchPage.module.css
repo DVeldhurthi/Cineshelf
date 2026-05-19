@@ -14,6 +14,32 @@
   min-width: 0;
 }
 
+.backBar {
+  display: flex;
+  grid-column: 1 / -1;
+}
+
+.backBar button {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.07);
+  color: var(--color-text);
+  cursor: pointer;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 850;
+}
+
+.backBar button:hover {
+  background: #ffffff;
+  color: #080a0f;
+}
+
 .playerActions {
   display: grid;
   grid-template-columns: minmax(220px, 280px) minmax(140px, 0.8fr) minmax(210px, 1.1fr) minmax(230px, 1.2fr) minmax(130px, 0.75fr);

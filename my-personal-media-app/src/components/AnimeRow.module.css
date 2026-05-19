@@ -31,7 +31,8 @@
   font-weight: 800;
 }
 
-.scroller {
+.scroller,
+.skeletonRow {
   display: flex;
   gap: 16px;
   padding: 4px 4px 20px;
@@ -48,6 +49,30 @@
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.2);
   background-clip: padding-box;
+}
+
+.skeletonRow span {
+  flex: 0 0 188px;
+  aspect-ratio: 2 / 3;
+  border-radius: 8px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.07));
+  background-size: 220% 100%;
+  animation: shimmer 1.2s linear infinite;
+}
+
+.error {
+  margin: 0 0 14px;
+  padding: 12px;
+  border: 1px solid rgba(244, 67, 54, 0.28);
+  border-radius: 8px;
+  background: rgba(244, 67, 54, 0.1);
+  color: #ffc9c9;
+}
+
+@keyframes shimmer {
+  to {
+    background-position: -220% 0;
+  }
 }
 
 @media (max-width: 720px) {

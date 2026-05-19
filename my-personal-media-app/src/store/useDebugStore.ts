@@ -22,7 +22,7 @@ type DebugState = {
   setPaused: (isPaused: boolean) => void;
 };
 
-const maxEntries = 250;
+const maxEntries = 100;
 
 const nativeConsole = {
   log: console.log.bind(console),

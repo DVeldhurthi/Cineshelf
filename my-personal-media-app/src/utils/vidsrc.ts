@@ -84,10 +84,28 @@ export const normalizeBaseUrl = (input: string) => {
   return `${url.origin}${path}`;
 };
 
+const canonicalVidSrcHosts: Record<string, string> = {
+  "vidsrc-embed.ru": "vsembed.ru",
+  "vidsrc-embed.su": "vsembed.ru",
+  "vsrc.su": "vsembed.ru",
+  "vidsrc.me": "vidsrcme.ru",
+};
+
+export const canonicalizeKnownVidSrcUrl = (input: string) => {
+  const url = new URL(input);
+  const canonicalHost = canonicalVidSrcHosts[url.hostname.toLowerCase()];
+
+  if (canonicalHost) {
+    url.hostname = canonicalHost;
+  }
+
+  return url.toString();
+};
+
 export const inferUrlFormat = (baseUrl: string): VidSrcMirror["urlFormat"] => {
   try {
     const url = new URL(normalizeBaseUrl(baseUrl));
-    return ["vidsrc-embed.ru", "vidsrc-embed.su", "vidsrcme.su", "vsrc.su"].includes(
+    return ["vidsrc-embed.ru", "vidsrc-embed.su", "vidsrcme.su", "vsrc.su", "vsembed.ru"].includes(
       url.hostname,
     )
       ? "path"
@@ -239,34 +257,36 @@ export const buildVidSrcUrl = (
       endpoint.searchParams.set("autonext", options.autonext ? "1" : "0");
     }
 
-    return endpoint.toString();
+    return canonicalizeKnownVidSrcUrl(endpoint.toString());
   }
 
   if (video.kind === "tv") {
     if (urlFormat === "legacyPath") {
-      return addPlaybackParams(
+      return canonicalizeKnownVidSrcUrl(addPlaybackParams(
         `${endpoint.origin}${endpoint.pathname}/${lookup.value}/${tvSeason}/${tvEpisode}`,
         video,
         {
           autoplay,
           autonext: options.autonext,
         },
-      );
+      ));
     }
 
-    return addPlaybackParams(
+    return canonicalizeKnownVidSrcUrl(addPlaybackParams(
       `${endpoint.origin}${endpoint.pathname}/${lookup.value}/${tvSeason}-${tvEpisode}`,
       video,
       {
         autoplay,
         autonext: options.autonext,
       },
-    );
+    ));
   }
 
-  return addPlaybackParams(`${endpoint.origin}${endpoint.pathname}/${lookup.value}`, video, {
-    autoplay,
-  });
+  return canonicalizeKnownVidSrcUrl(
+    addPlaybackParams(`${endpoint.origin}${endpoint.pathname}/${lookup.value}`, video, {
+      autoplay,
+    }),
+  );
 };
 
 export const getActiveMirror = (settings: AppSettings) => {

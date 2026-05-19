@@ -104,6 +104,7 @@ Windows SmartScreen may show a warning when opening the installer. This is expec
 - Favorites are supported for movies, TV shows, and some anime.
 - Search prioritizes movies and TV shows before anime.
 - macOS and Windows builds are unsigned.
+- There is no download for macOS for Intel Macbooks
 
 ## Disclaimer
 
